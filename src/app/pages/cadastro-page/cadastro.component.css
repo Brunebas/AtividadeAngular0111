@@ -1,0 +1,129 @@
+.quadrado{
+    background-color: #6dcec9;
+    height: 600px;
+    width: 1000px;
+    position: fixed;
+    border-radius: 15px;
+    left: 15%;
+    top: 5%;
+  }
+  
+.nome{
+  height: 30px;
+    width: 300px;
+    position: fixed;
+    left: 300px;
+    top: 204px;
+    border-radius: 15px;
+    border-color: #008a83;
+    border-style: solid;
+  }
+  
+  .email{
+    height: 30px;
+    width: 300px;
+    position: fixed;
+    left: 300px;
+    top: 270px;
+    border-radius: 15px;
+    border-color: #008a83;
+    border-style: solid;
+  }
+  
+  .senha{
+    height: 30px;
+    width: 300px;
+    position: fixed;
+    left: 300px;
+    top: 336px;
+    border-radius: 15px;
+    border-color: #008a83;
+    border-style: solid;
+  }
+  
+  .estado{
+    height: 30px;
+    width: 300px;
+    position: fixed;
+    left: 300px;
+    top: 402px;
+    border-radius: 15px;
+    border-color: #008a83;
+    border-style: solid;
+  }
+  
+  .cidade{
+    height: 30px;
+    width: 300px;
+    position: fixed;
+    left: 750px;
+    top: 204px;
+    border-radius: 15px;
+    border-color: #008a83;
+    border-style: solid;
+  }
+  
+  .bairro{
+    height: 30px;
+    width: 300px;
+    position: fixed;
+    left: 750px;
+    top: 270px;
+    border-radius: 15px;
+    border-color: #008a83;
+    border-style: solid;
+  }
+  
+  .genero{
+    height: 30px;
+    width: 300px;
+    position: fixed;
+    left: 750px;
+    top: 336px;
+    border-radius: 15px;
+    border-color: #008a83;
+    border-style: solid;
+  }
+  
+  .link{
+    height: 30px;
+    width: 300px;
+    position: fixed;
+    left: 750px;
+    top: 402px;
+    border-radius: 15px;
+    border-color: #008a83;
+    border-style: solid;
+  }
+  
+  .cadastro{
+    height: 40px;
+    width: 150px;
+    position: fixed;
+    left: 45%;
+    top: 502px;
+    border-radius: 15px;
+    border-color: #005e59;
+    background-color: #008a83;
+  }
+  
+  .bemVindo{
+    z-index: 1;
+    position: absolute;
+    left: 39%;
+  }
+
+.cadastre{
+    position: fixed;
+    left: 45%;
+    top: 15%;
+    font-size: 30px;
+}
+
+.imagem{
+  position: fixed;
+  left: 80%;
+  top: 6%;
+  width: 70px;
+  height: 70px;
+}
